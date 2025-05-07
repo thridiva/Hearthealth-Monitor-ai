@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# IDE/Editor specific files
+.vscode/
+
+# Build and distribution directories
+dist/
+build/
+
+# Model files (if not needed in version control)
+*.pkl
