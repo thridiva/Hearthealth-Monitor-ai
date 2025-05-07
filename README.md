@@ -26,7 +26,9 @@ Cardio_HeartHealth_Monitor.AI is an advanced AI-powered system designed for earl
 
 
 
+
 🔥 **Key Features**
+
 
 🏥 AI-Powered Risk Prediction using XGBoost with high accuracy
 
@@ -54,7 +56,7 @@ Cardio_HeartHealth_Monitor.AI is an advanced AI-powered system designed for earl
 
 4️⃣ **Output Generation**: Displays Yes/No result and risk percentage
 
-5️⃣ Chatbot & Reports: Provides real-time support and generates downloadable report 📄
+5️⃣ **Chatbot & Reports**: Provides real-time support and generates downloadable report 📄
 
 
 
