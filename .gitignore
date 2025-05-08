@@ -18,6 +18,3 @@ __pycache__/
 # Build and distribution directories
 dist/
 build/
-
-# Model files (if not needed in version control)
-*.pkl
