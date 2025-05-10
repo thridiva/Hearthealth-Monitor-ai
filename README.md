@@ -117,15 +117,4 @@ Frontend & UI/UX
 Chatbot & Integration
 
 
-
-🏆 **Achievements & Recognition** 🏅
-
-🏅 Developed for Healthcare Innovation Challenges
-
-🏆 Participated in major Hackathons and won accolades
-
-🎖️ Acknowledged for AI-powered Predictive Healthcare
-
-
-
 🚀 **Let’s bring AI-powered heart health monitoring to every individual!** 💖
