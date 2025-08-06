@@ -86,7 +86,7 @@ Cardio_HeartHealth_Monitor.AI is an advanced AI-powered system designed for earl
 
 -->📊 Streamlit Interactive visual interface
 
--->🤖 AI Chatbot Real-time user interaction
+-->🤖 AI Chatbot LLM Real-time user interaction
 
 -->☁️ Cloud Hosting Deployment & scalability
 
